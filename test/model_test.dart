@@ -33,21 +33,21 @@ void main()   {
   });
 
   test('usuarioInstancia', ()  {
-    Usuario usuario = Usuario("rodrigo@gail.com", "123456");
-    expect(usuario.email_usuario, "rodrigo@gail.com");
+    Usuario usuario = Usuario("guilherme@gail.com", "123456");
+    expect(usuario.email_usuario, "guilherme@gail.com");
     expect(usuario.senha, "123456");
 
   });
 
   test('usuarioNotNull', ()  {
-    Usuario usuario = Usuario("rodrigo@gail.com", "123456");
+    Usuario usuario = Usuario("guilherme@gail.com", "123456");
     expect(usuario.email_usuario!= null, true);
     expect(usuario.senha!= null, true);
 
   });
 
   test('usuarioLenght', ()  {
-    Usuario usuario = Usuario("rodrigo@gail.com", "123456");
+    Usuario usuario = Usuario("guilherme@gail.com", "123456");
     expect(usuario.email_usuario?.length, 16);
     expect(usuario.senha?.length, 6);
 

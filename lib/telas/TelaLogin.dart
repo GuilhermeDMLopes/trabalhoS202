@@ -18,7 +18,7 @@ class _TelaLoginState extends State<TelaLogin> {
     var _db = DatabaseHelper();
     _db.inicializarDB();
 
-//    Usuario usuario = Usuario("rodrigoaugusto@gmail.com", "123456");
+//    Usuario usuario = Usuario("guilherme@gmail.com", "123456");
 //    int resultado = await _db.salvarUsuario( usuario );
 //    print("resultado: " + resultado.toString());
 

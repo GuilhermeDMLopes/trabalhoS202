@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(controle_estoque_c317_flutter LANGUAGES CXX)
+project(trabalhoS202 LANGUAGES CXX)
 
-set(BINARY_NAME "controle_estoque_c317_flutter")
+set(BINARY_NAME "trabalhoS202")
 
 cmake_policy(SET CMP0063 NEW)
 

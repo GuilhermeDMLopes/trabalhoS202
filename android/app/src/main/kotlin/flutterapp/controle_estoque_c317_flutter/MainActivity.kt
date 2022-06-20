@@ -1,4 +1,4 @@
-package flutterapp.controle_estoque_c317_flutter
+package flutterapp.trabalhoS202
 
 import io.flutter.embedding.android.FlutterActivity
 
