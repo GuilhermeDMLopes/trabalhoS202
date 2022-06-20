@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trabalho realizado para controle de estoque
 
 A new Flutter application.
@@ -45,6 +44,4 @@ Pra dar upgrade:
 ```
 choco upgrade dart-sdk
  
-=======
 
->>>>>>> 70711428e098abf1ee4c5c4266a13e850ad11e7a
